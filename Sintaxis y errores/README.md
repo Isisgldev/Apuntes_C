@@ -2,6 +2,7 @@
 
 Al escribir en C, debemos seguir un conjunto de reglas para que el código se ejecute correctamente. Estas reglas se conocen como Sintaxis.
 
+
 ## Sintaxis común para todos los programas
 
 - **Sensibilidad de Mayúsculas y Minúsculas**: La mayoría de las palabras del código utilizan letras minúsculas. Esto se conoce como distinción entre mayúsculas y minúsculas.
@@ -12,14 +13,15 @@ las únicas líneas de texto que pueden cambiar entre mayúsculas o minúsculas 
 
 - **Doble comillas ("")**: El texto entre comillas dobles ("xxxxx xxxx"), se conoce como cadena. En otras palabras, todas las cadenas de texto deben estar entre comillas dobles.
 
-## Errores
 
-<img width="385" alt="Captura de pantalla 2023-12-18 a las 12 11 27" src="https://github.com/Isisgldev/Apuntes_C/assets/43893808/c41aec06-4242-4e50-b1a9-fd32d41eae6b">
+## Errores
 
 Los errores ocurren cuando rompemos las reglas de Sintaxis.
 
 El siguiente ejemplo es el error que se genera cuando omitimos el punto y coma de la instrucción, en este caso, printf().
 
+
+<img width="385" alt="Captura de pantalla 2023-12-18 a las 12 11 27" src="https://github.com/Isisgldev/Apuntes_C/assets/43893808/c41aec06-4242-4e50-b1a9-fd32d41eae6b">
 
 
 La información que aporta el mensaje anterior es:
