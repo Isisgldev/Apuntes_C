@@ -8,17 +8,18 @@ Al escribir en C, debemos seguir un conjunto de reglas para que el código se ej
 Ya sean mayúsculas o minúsculas. Ciertas palabras en el código deben seguir el orden correcto de mayúsculas y minúsculas para que el código se ejecute.
 las únicas líneas de texto que pueden cambiar entre mayúsculas o minúsculas son los comentarios y las cadenas de texto (texto entre comillas).
 
-- **El Punto y Coma (;)**: Todas las declaraciones - como la función printf() en [Hello World!]() -, deben terminar con un punto y coma. Esto identificará el final de la declaración y es necesario para que el código se ejecute correctamente.
+- **El Punto y Coma (;)**: Todas las declaraciones - como la función printf() en [Hello World!](https://github.com/Isisgldev/Apuntes_C/blob/main/Hello%20World!/HelloWorld.c) -, deben terminar con un punto y coma. Esto identificará el final de la declaración y es necesario para que el código se ejecute correctamente.
 
 - **Doble comillas ("")**: El texto entre comillas dobles ("xxxxx xxxx"), se conoce como cadena. En otras palabras, todas las cadenas de texto deben estar entre comillas dobles.
 
 ## Errores
 
+<img width="385" alt="Captura de pantalla 2023-12-18 a las 12 11 27" src="https://github.com/Isisgldev/Apuntes_C/assets/43893808/c41aec06-4242-4e50-b1a9-fd32d41eae6b">
+
 Los errores ocurren cuando rompemos las reglas de Sintaxis.
 
 El siguiente ejemplo es el error que se genera cuando omitimos el punto y coma de la instrucción, en este caso, printf().
 
-![image](https://github.com/Isisgldev/Apuntes_C/assets/43893808/4a9d9912-c852-4055-a476-02d53dfcb1eb)
 
 
 La información que aporta el mensaje anterior es:
