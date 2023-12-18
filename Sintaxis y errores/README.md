@@ -18,7 +18,8 @@ Los errores ocurren cuando rompemos las reglas de Sintaxis.
 
 El siguiente ejemplo es el error que se genera cuando omitimos el punto y coma de la instrucción, en este caso, printf().
 
-![image](https://github.com/Isisgldev/Apuntes_HTML/assets/43893808/c0d1a570-7e8a-4fad-9a48-9a995010e553)
+![image](https://github.com/Isisgldev/Apuntes_C/assets/43893808/403578c4-dfc2-4237-99ff-1fcd3d789f56)
+
 
 La información que aporta el mensaje anterior es:
 
