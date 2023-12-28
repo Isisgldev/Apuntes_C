@@ -52,7 +52,7 @@ Indicar que hace mi programa */
 
 ### Enlaces
 
-
+[Diez consejos para mejorar tus comentarios de código fuente](https://www.genbeta.com/desarrollo/diez-consejos-para-mejorar-tus-comentarios-de-codigo-fuente)
 
 ***
 
