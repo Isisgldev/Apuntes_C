@@ -20,3 +20,13 @@ Comentario de línea doble:
 // explicar un poco más la funcion impriir en pantalla
 printf("Hello World!\n");
 ```
+
+Los comentarios anteriorres pueden añadirse sobre una línea de código para explicar o describir el comportamiento de esa línea de código. Pero también se pueden agregar comentarios más cortos al final de una línea de código.
+
+Comentario corto al final de una línea de código:
+
+```
+printf("Hello World!\n"); \\ Función imprimir de C
+```
+
+
