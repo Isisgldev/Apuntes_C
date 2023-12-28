@@ -24,6 +24,26 @@ Para entender el comando anterior vamos a dividirlo en tres partes:
 
 ## Ejecutar el programa compilado (archivo ejecutable)
 
+Para ejecutar el programa o archivo ejecutable debemos escribir en la terminal el simbolo punto y barra inclinada (./) junto al nombre del archivo. Para el ejemplo anterior sería:
+
+```
+./HelloWorld
+```
+
+Este comando indicará al la computadora que busque en el directorio actual el archivo ejecutable HelloWorld y lo ejecute.
+
+ 
+***
+
+### Enlaces
 
 
+***
 
+### Contribuciones
+
+¡Las contribuciones son bienvenidas! Si encuentras errores o deseas mejorar la documentación, no dudes en enviar un [pull request](https://github.com/Isisgldev/Apuntes-HTML/pulls).
+
+### Licencia
+
+Este proyecto está bajo la [Licencia MIT](https://es.wikipedia.org/wiki/Licencia_MIT).
