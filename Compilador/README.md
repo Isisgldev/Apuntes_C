@@ -15,5 +15,15 @@ Por ejemplo, para compilar nuestro programa [Hello World!](https://github.com/Is
 gcc HelloWorld.c -o HelloWorld
 ```
 
+Para entender el comando anterior vamos a dividirlo en tres partes:
+
+- **gcc**: Así es como se llama al compilador para ejecutarlo.
+- **HelloWorld.c**: El nombre del archivo que contiene el cóidigo a compilar.
+- **HelloWorld**: Es una opción adicional pero común. Indica al compilador que genere el archivo o programa ejecutable con el nombre HelloWorld en vez del nombre por defecto a.out. En otras palabras, si no se incluye la bandera -o junto al nombre que le queremos dar al archivo ejecutable, el archivo ejecutable se llamará a.out.
+
+
+## Ejecutar el programa compilado (archivo ejecutable)
+
+
 
 
