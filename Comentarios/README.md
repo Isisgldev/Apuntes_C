@@ -26,10 +26,9 @@ Los comentarios anteriorres pueden añadirse sobre una línea de código para ex
 Comentario corto al final de una línea de código:
 
 ```
-printf("Hello World!\n"); \\ Función imprimir de C
-```
+printf("Hello World!\n"); // Función imprimir en C
 
-Como se observa en el ejemplo una vez de utiliza la doble barra diagonal (\\) el resto de la lína se convierte en un comentario y por tanto el programa ignorará todo lo que se expliva en la línea después de la doble barra diagonal.
+Una vez que se utiliza la barra lateral doble el resto de la línea se convierte en un comentario y por tanto a la hora de ejecutar el programa todo lo que esté en la línea después de la barra lateral será ignorado.
 
 ## Comentarios en Bloque
 
@@ -44,10 +43,3 @@ y son utilizados para textos de
 varias lineas, como ejemplo:
 Indicar que hace mi programa */
 ```
-
-
-
-
-
-
-
