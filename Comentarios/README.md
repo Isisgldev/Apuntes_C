@@ -29,4 +29,25 @@ Comentario corto al final de una línea de código:
 printf("Hello World!\n"); \\ Función imprimir de C
 ```
 
+Como se observa en el ejemplo una vez de utiliza la doble barra diagonal (\\) el resto de la lína se convierte en un comentario y por tanto el programa ignorará todo lo que se expliva en la línea después de la doble barra diagonal.
+
+## Comentarios en Bloque
+
+Un comentario de bloque puede incluir varias líneas de texto y solo es necesario utilizar la notación inicial```(/*)```y la final (*/).
+
+en otras palabras, para crear un comentario en bloque se debe utilizar una barra lateral y un asterisco para abrirlo```(/*)```y un aterisco y una barra lateral (*/) para cerrarlo.
+
+```
+/* Los comentarios en bloque,
+son comentarios de varias líneas,
+y son utilizados para textos de
+varias lineas, como ejemplo:
+Indicar que hace mi programa */
+```
+
+
+
+
+
+
 
