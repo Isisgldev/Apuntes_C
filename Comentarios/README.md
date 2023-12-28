@@ -52,7 +52,7 @@ Indicar que hace mi programa */
 
 ### Enlaces
 
-[Vídeo: gcc: Entendiendo algunos errores simples que devuelve gcc al compilar mi código en lenguaje C](https://www.youtube.com/watch?v=9gCIgvnDJhQ)
+
 
 ***
 
