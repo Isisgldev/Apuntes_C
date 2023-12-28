@@ -11,5 +11,5 @@ Apuntes personales sobre C.
 ### 3. [Outputs o salidas y Secuencias de Escape](https://github.com/Isisgldev/Apuntes_C/tree/main/Outputs)
 ### 4. [Comentarios](https://github.com/Isisgldev/Apuntes_C/tree/main/Comentarios)
 ### 5. [Compilador](https://github.com/Isisgldev/Apuntes_C/tree/main/Compilador)
-### 6. [En resumen]()
+### 6. [Resumen](https://github.com/Isisgldev/Apuntes_C/blob/main/Resumen/README.md)
     
