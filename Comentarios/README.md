@@ -8,11 +8,15 @@ Al comenzar una línea con doble barra diagonal (//), se creeará un comentario 
 
 Comentario de línea simple:
 
-´´´
+```
 // Función para mostrar la cadena de texto en pantalla
 printf("Hello World!\n");
-´´´
+```
 
 Comentario de línea doble:
 
-
+```
+// Un comentario de línea doble permitiría
+// explicar un poco más la funcion impriir en pantalla
+printf("Hello World!\n");
+```
